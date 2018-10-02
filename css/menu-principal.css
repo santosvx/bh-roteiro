@@ -1,0 +1,16 @@
+/********************
+Componente menu-principal
+********************/
+
+.menu-principal {
+
+}
+
+.menu-principal > .lista {
+
+}
+
+.menu-principal > .lista > .item {
+display: inline;
+padding: 15px;
+}
